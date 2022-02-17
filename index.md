@@ -1,12 +1,11 @@
 ## Bienvenido a mi sitio
 
-Soy liz estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo corridos, cumbias, rap y salsa. Me gusta pasar tiempo con mi familia ya que ellos son lo mas importe en un tiempo no muy lejano quisiera visitar escocia seria asi como el estudiar enfermeria seria mi sueño.
+Soy liz estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo corridos, cumbias, rap y salsa. Me gusta pasar tiempo con mi familia ya que ellos son lo mas importe. En un tiempo no muy lejano quisiera visitar escocia asi como el estudiar enfermeria seria mi sueño.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###  Mis Planes a futuro
+Mi plan hasta el momento seria  el estudiar la carrera de enfermeria, trabajar en un hospital importante de la CDMX asi como en  un determinado momento formar una familia  el visitar  la mayor cantidad de pueblos magicos y playas. El poder exprimentar emociones nuevas y momentos que jamas olvidaria. Y por ultimo pasar mis ultimos dias en una casa en el estado de hidalgo.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +27,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+###  Que es lo que hace feliz
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LIZET-GONZALEZ-LOPEZ/LIZET-GONZALEZ-LOPEZ.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+El  siemple echo de estar con mi familia es lo que mas me hace feliz, pasara momentos de calidad  y alegria. Asi como mis amigos, mi mejor amiga ellos me hacen reir cada vez que me siento mal, el siemple echo de apoyarme es algo fundamental en mi vida. Hay que verla la vida de la mejor forma posible tenemos una sola vida una sola oputunidar de pisar esta tierra  la vida no tiene que ser perfecta para ser maravillosa.
 
-### Support or Contact
+###  Mis momentos especiales
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
