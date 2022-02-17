@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi sitio
 
-You can use the [editor on GitHub](https://github.com/LIZET-GONZALEZ-LOPEZ/LIZET-GONZALEZ-LOPEZ.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Soy liz  quisiera hablate un poco de mi, estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo corridos, cumbias, rap 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
