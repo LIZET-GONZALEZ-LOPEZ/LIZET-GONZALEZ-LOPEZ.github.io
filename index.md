@@ -1,6 +1,6 @@
 ## Bienvenido a mi sitio
 
-Soy liz  quisiera hablate un poco de mi, estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo corridos, cumbias, rap 
+Soy liz estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo corridos, cumbias, rap y salsa. Me gusta pasar tiempo con mi familia ya que ellos son lo mas importe en un tiempo no muy lejano quisiera visitar escocia seria asi como el estudiar enfermeria seria mi sueño.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
