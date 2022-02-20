@@ -7,24 +7,8 @@ Soy liz estudio en el cetis 32 soy alguien a quien le gusta ver mucho las pelicu
 Mi plan hasta el momento seria  el estudiar la carrera de enfermeria, trabajar en un hospital importante de la CDMX asi como en  un determinado momento formar una familia  el visitar  la mayor cantidad de pueblos magicos y playas. El poder exprimentar emociones nuevas y momentos que jamas olvidaria. Y por ultimo pasar mis ultimos dias en una casa en el estado de hidalgo.
 
 
-```markdown
-Mis series y peliculas favoritas
 
-You (Serie)
-Gran Hotel (Serie)
-Secreto bien guardado (mini serie)
-Bridgerton (Seire)
-Grey's Anatomy (Seire) 
-Las chicas del Cable (Serie)
-Serie The Purge (Serie cinematográfica)
-Los juegos del Hambre (Serie cinematográfica)
-Harry Potter (Pelicula)
-Orgullo y prejuicio (Pelicula)
-Entre Navajas y Secretos (Pelicula)
-Kung Fu Panda 3 (Pelicula)
-Sex and the City (Pelicula)
-Mulan (Pelicula)
-Mamma Mia! (Ppelicula)
+
 
 
 ###  Que es lo que hace feliz
