@@ -10,7 +10,6 @@ Mi plan hasta el momento seria  el estudiar la carrera de enfermeria, trabajar e
 
 
 
-
 ###  Que es lo que hace feliz
 
 Pasara momentos de calidad  y alegria con la familia asi como mis amigos, mi mejor amiga ellos me hacen reir cada vez que me siento mal, el echo de apoyarme es algo fundamental en mi vida. Hay que ver la vida de la mejor forma posible tenemos una sola vida una sola oputunidar de pisar esta tierra  la vida no tiene que ser perfecta para ser maravillosa.
