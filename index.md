@@ -8,29 +8,27 @@ Mi plan hasta el momento seria  el estudiar la carrera de enfermeria, trabajar e
 
 
 ```markdown
-Syntax highlighted code block
+Mis series y peliculas favoritas
 
-# Header 1
-## Header 2
-### Header 3
+You (Serie)
+Gran Hotel (Serie)
+Secreto bien guardado (mini serie)
+Bridgerton (Seire)
+Grey's Anatomy (Seire) Las chicas del Cable (Serie)
+Serie The Purge (Serie cinematográfica)
+Los juegos del Hambre
+Orgullo y prejuicio (Pelicula)
+Entre Navajas y Secretos (Pelicula)
+Kung Fu Panda 3 (Pelicula)
+Sex and the City (Pelicula)
+Mulan (Pelicula)
+Mamma Mia! (Ppelicula)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ###  Que es lo que hace feliz
 
-El  siemple echo de estar con mi familia es lo que mas me hace feliz, pasara momentos de calidad  y alegria. Asi como mis amigos, mi mejor amiga ellos me hacen reir cada vez que me siento mal, el siemple echo de apoyarme es algo fundamental en mi vida. Hay que verla la vida de la mejor forma posible tenemos una sola vida una sola oputunidar de pisar esta tierra  la vida no tiene que ser perfecta para ser maravillosa.
+Pasara momentos de calidad  y alegria con la familia asi como mis amigos, mi mejor amiga ellos me hacen reir cada vez que me siento mal, el echo de apoyarme es algo fundamental en mi vida. Hay que ver la vida de la mejor forma posible tenemos una sola vida una sola oputunidar de pisar esta tierra  la vida no tiene que ser perfecta para ser maravillosa.
 
 ###  Mis momentos especiales
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Uno de mis momentos especiales es cuando visiste la zona arqueologica en oaxaca Monte Alban, el ver el sentir cosas increibles que no hubiera imaginado vivir por otra parte  otro momento fue cuando monte un toro en el estado de Jalisco. El ir a las aguas termales en el esatdo de Hidalgo son de los momentos tan maravillosos.
