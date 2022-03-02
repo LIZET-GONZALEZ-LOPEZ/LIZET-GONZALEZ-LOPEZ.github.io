@@ -24,19 +24,19 @@ Mis planes a futuro aun no estan muy bien establecidos pero hasta el momento qui
 
 ___
 ## Mis Peliculas y Series favoritas
-*Entre Navajas y Secretos
-*Perfectos deconocidos
-*Lo mejor de mi
-*El bailre de los 41
-*Diario de una pasion
-*Bridgerton
-*Alta Mar
-*Gran Hotel
-*Secreto bien guardado
-*El bazar de la caridad
-*Amor en tiempos de guerra
-*Downton Abbey
-*Purge
-*Harry Potter
-*Juegos del hambre
-*The Maze Runner
+-Entre Navajas y Secretos
+-Perfectos deconocidos
+-Lo mejor de mi
+-El bailre de los 41
+-Diario de una pasion
+-Bridgerton
+-Alta Mar
+-Gran Hotel
+-Secreto bien guardado
+-El bazar de la caridad
+-Amor en tiempos de guerra
+-Downton Abbey
+-Purge
+-Harry Potter
+-Juegos del hambre
+-The Maze Runner
