@@ -1,3 +1,5 @@
+[instalaciones](./instalaciones.md)[expositores](./expositores.md)[staff](./staff.md)
+
 ## Mis Gustos
 El comprar ropa, zapatos y sueteres. Comer helado y frapes cada jueves. Asi como el ver todas las peliculas de Harry Potter y Los Juegos del Hambre con mi hermana y ver a una Yotuber que cuenta historias de ultratumba cada mez.
 
