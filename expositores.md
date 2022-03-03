@@ -1,3 +1,4 @@
+[instalaciones](./instalaciones.md)[expositores](./expositores.md)[staff](./staff.md)
 
 ## Mis gustos
 Mis gustos son el comer cualquier tipo de comida asi comos los postres son mis devilidades
@@ -15,3 +16,4 @@ Bailar son de mis cosas fovoritas de hacer, asi como el ver peliculas 24/7, escu
 
 ## Lo que me apaciona
 Me gusta ayudar a la gente en cualquier situacion, soy una persona muy empatica y sentimental. Quisiera tener un trabajo en donde pueda ayudar a aquier persona que necesitara mi ayuda
+
