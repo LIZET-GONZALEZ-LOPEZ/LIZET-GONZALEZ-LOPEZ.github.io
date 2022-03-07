@@ -1,6 +1,6 @@
 ## Bienvenido a mi sitio
 
-Soy liz estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de tipo. Me gusta pasar tiempo con mi familia ya que ellos son lo mas importante. En un tiempo no muy lejano quisiera visitar escocia asi como el estudiar enfermeria. 
+Soy lizet estudio en el cetis 32 soy alguien a quien le gusta ver mucho las peliculas de terror y suspenso al igual me gusta escuchar musica  de todo tipo. Me gusta pasar tiempo con mi familia ya que ellos son lo mas importante. En mi tiempo libre me gusta pasarla con mis amigos. En un momento dado quisiera visitar escocia asi como estudiar enfermeria. 
 
 | nro. | Musica Favorita | Peliculas Favoritas |  Animales Favoritos | 
 | --- | --- | --- | ---|
