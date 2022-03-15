@@ -7,6 +7,6 @@
 
 <from>
 <label for="name">Nombres:</label><br>
-<input type="text" id="name" valve="Tus nombres"><br>
+<input type="text" id="name" name:"name" valve:"Tus nombres"><br>
 <Iabel for="lname">/iabel><br>
 < input type="text" id=lname" name="lname" valve="apellidos">>br>
